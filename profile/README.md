@@ -1,4 +1,4 @@
-## DynamyX 👋
+## DynamyX 
 
 <!--
 
